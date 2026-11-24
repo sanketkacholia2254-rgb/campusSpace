@@ -1,0 +1,6 @@
+{
+  "name": "DY Patil Live Room",
+  "description": "Smart classroom availability and student study space allocation for Dr. D. Y. Patil Institute of Technology, Pimpri, Akurdi, Pune.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
